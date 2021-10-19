@@ -1,0 +1,8 @@
+damage
+dirt
+unknown
+gap
+d_dent
+d_crush
+d_scratch
+d_slant
